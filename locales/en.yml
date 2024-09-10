@@ -1,0 +1,15 @@
+en:
+  theme_metadata:
+    description: Adds a link to the header
+    settings:
+      link: URL of the link.
+      icon: Fontawesome icon for the link.
+      custom_icon: Custom icon for the link (overrides fontawesome).
+      new_tab: Open the link in a new tab.
+      label: Label of the link.
+      title: Title of the link.
+      background_color: Background color of the link.
+      text_color: Text color of the link.
+      border_color: Border color of the link.
+      show_label_on_mobile: Show the label on mobile.
+

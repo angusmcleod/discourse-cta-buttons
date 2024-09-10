@@ -1,0 +1,24 @@
+header_button_url: ''
+header_button_icon: ''
+header_button_custom_icon:
+  type: 'upload'
+  default: ''
+header_button_new_tab: false
+header_button_label: ''
+header_button_title: ''
+header_button_background_color: ''
+header_button_text_color: ''
+header_button_border_color: ''
+header_button_mobile_label: false
+sidebar_button_url: ''
+sidebar_button_icon: ''
+sidebar_button_custom_icon:
+  type: 'upload'
+  default: ''
+sidebar_button_new_tab: false
+sidebar_button_label: ''
+sidebar_button_title: ''
+sidebar_button_background_color: ''
+sidebar_button_text_color: ''
+sidebar_button_border_color: ''
+sidebar_button_mobile_label: false
